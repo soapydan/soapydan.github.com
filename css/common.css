@@ -161,7 +161,7 @@ p
 ul.menu-list
 {
 width: auto;
-
+text-align: center;
 }
  
 li.menu-item
@@ -183,8 +183,7 @@ a.menu-item-link
  
 a.menu-item-link:hover
 {
-   text-align: center;
-   color: #192525;
+   color: #ffffff;
 }
  
 a.menu-item-link:active
